@@ -1,0 +1,39 @@
+.theme{
+    color: aliceblue;
+    font-weight: 800;
+  }
+  .theme2{
+    color:#fcb900
+  }
+  
+  .mainBtn{
+    color:aliceblue;
+    background-color:blue;
+    border-radius: 10%;
+    width: 15%;
+    height: 20%;
+  }
+  
+  .bgVideo{
+    position: fixed;
+  }
+  
+  .main{
+    left: 25%;
+    position: relative;
+  }
+  
+  .searchBar input{
+    border-radius:5px;
+    width: 40%;
+  }
+  
+  .bton{
+    margin-left: 40%;
+    /* width: 9%;
+    height: 15%; */
+    background-color: #0d52c7;
+    border-radius: 5px;
+    color: aliceblue;
+    font-family: sans-serif;
+  }
